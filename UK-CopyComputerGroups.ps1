@@ -264,7 +264,7 @@ switch($wannamove) {
 
 try {
         # Moving computer.
-        Get-ADComputer $ToComputer | Move-ADObject -Server $Server -TargetPath "$FromComputerMove"
+        Get-ADComputer $ToComputer -Server $Server | Move-ADObject -Server $Server -TargetPath "$FromComputerMove"
         Write-Output "$ToComputer has been moved to $FromComputerMove"
     } 
     catch 
