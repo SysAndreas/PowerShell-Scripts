@@ -10,9 +10,8 @@ I stream a little bit on: (<http://twitch.tv/ThatGuyDusty>)
 
 Scripts:
 
-```html
-<b>UK-CopyComputerGroups.ps1</b> - copying computer groups and moving a computer to the same location as another one.
-```
+**UK-CopyComputerGroups.ps1** - copying computer groups and moving a computer to the same location as another one.
+
 ## Licenses
 
 Everything here is released under CC BY-SA 4.0 (<https://creativecommons.org/licenses/by-sa/4.0/>)
