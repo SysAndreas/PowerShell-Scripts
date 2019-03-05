@@ -8,9 +8,10 @@ I stream a little bit on: (<http://twitch.tv/ThatGuyDusty>)
 
 ## Files
 
-Scripts:
-
-**UK-CopyComputerGroups.ps1** - copying computer groups and moving a computer to the same location as another one.
+**UK-AddGroupsToComputers.ps1**         - bulk adding multiple groups to multiple computers (from text-files)
+**UK-CopyComputerGroups.ps1**           - copying computer groups and moving a computer to the same location as another one.
+**UK-DeleteAllGroupsFromComputers.ps1** - bulk deletes all groups from computers in text-file
+**UK-GetComputerBootTime.ps1**          - getting boot-uptime from computer in AD.
 
 ## Licenses
 
